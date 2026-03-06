@@ -41,22 +41,6 @@ define('DB_NAME', 'your_database_name');
 
 HTML, CSS...
 
-## Other Common Github Profile Sections
-
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about HTML,CSS
-
-📫 [How to reach me...](charindumadhusanka801@gmail.com)
-
-⚡️ I think I'm funny 😄
-
 ## Authors
 
 - [@charindu36](https://github.com/charindu36)
